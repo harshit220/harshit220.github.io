@@ -637,6 +637,20 @@ h3.my-profession {
   width: 100%;
   display: block;
 }
+.project-desc{
+  margin:5px;
+}
+
+.project-desc h3,p{
+  color: var(--text-black-900)
+}
+.project-desc a{
+  margin:7px;
+  text-decoration: none;
+  font-size: 18px;
+  font-weight: 700;
+  color:var(--skin-color)
+}
 
 /* Contact */
 
